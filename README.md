@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Landing page demo
+Landing page for a museum; made using HTML and CSS (specifically SCSS).
+
+* [Demo link](https://ctgdprzyb.github.io/museum_landing_page/)
+* [Design used](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
